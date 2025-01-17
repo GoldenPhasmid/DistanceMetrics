@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DistanceMetrics",
+	"Description": "Distance metrics plugin is designed to provide level designers with better understanding about level metrics and layout. Can be used to highlight invalid or ambiguous metrics. Displays distances between selected boundary polygons.",
+	"Category": "Other",
+	"CreatedBy": "phasmid",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "DistanceMetrics",
+			"Type": "Editor",
+			"LoadingPhase": "PostEngineInit"
+		}
+	]
+}
